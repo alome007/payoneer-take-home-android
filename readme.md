@@ -19,7 +19,7 @@ git clone https://github.com/alome007/payoneer-take-home-android.git
 -    [Google Truth](https://truth.dev/) - Truth is a library for performing assertions in tests
 
 ## Installable APK
-[app-debug.apk](https://drive.google.com/file/d/1uTEKHW3FIzOugbwjZq65ROzeRmGwks6K/view) - Download from Google Drive
+[app-debug.apk](https://drive.google.com/file/d/1wPCARhJ2OC6q0ARN5IDKbR0h2sEpZt6g/view?usp=sharing) - Download from Google Drive
 
 ## Screenshots
 
