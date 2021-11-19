@@ -23,4 +23,4 @@ git clone https://github.com/alome007/payoneer-take-home-android.git
 
 ## Screenshots
 
-<img src="https://github.com/alome007/payoneer-take-home-android/blob/master/app/screenshot1.png" width="auto" height="700"> <img src="https://github.com/alome007/payoneer-take-home-android/blob/master/app/screenshot2.png" width="auto" height="700"> <img src="https://github.com/alome007/payoneer-take-home-android/blob/master/app/screenshot3.png" width="auto" height="700">
+<img src="https://github.com/alome007/payoneer-take-home-android/blob/main/app/screenshot1.png" width="auto" height="700"> <img src="https://github.com/alome007/payoneer-take-home-android/blob/main/app/screenshot2.png" width="auto" height="700"> <img src="https://github.com/alome007/payoneer-take-home-android/blob/main/app/screenshot3.png" width="auto" height="700">
