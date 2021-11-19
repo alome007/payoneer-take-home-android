@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Payoneer Test</string>
+    <string name="tool_bar_title">Payment Methods</string>
+    <string name="account_holder_name">Account Holder Name</string>
+    <string name="save_this_payment_method_for_future_purchases">Save this Payment method for Future \nPurchases</string>
+    <string name="no_internet">No Internet, Click to try again.</string>
+</resources>
